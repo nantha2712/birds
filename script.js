@@ -42,7 +42,8 @@ function Animacion() {
   ctx.clearRect(0, 0, cw, ch);
   
   ctx.fillStyle ="#777";
-  ctx.fillText(" Good Morning My Baby ",cx,60);
+  ctx.fillText(" How’s my sathiya chello  ",cx,60);
+  ctx.fillText(" kutty doing today? ",cx,130);
 
   
   
